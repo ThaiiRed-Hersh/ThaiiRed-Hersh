@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- 🔭 I’m currently working as web developer in SEDUC-RO
+- 🔭 I’m currently working as a web developer in SEDUC-RO
 - 🌱 I’m currently studying Computer Engineering at SAPIENS College
 - 📫 How to reach me:
 
